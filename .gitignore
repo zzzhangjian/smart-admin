@@ -1,0 +1,16 @@
+### IDEA ###
+.idea/*
+*.iml
+*.class
+*/target/*
+*/node_modules/*
+*/*.iml
+*.jar
+*.original
+*.lst
+/smart-modules/smart-system/target/*
+/smart-modules/smart-generator/target/*
+/smart-modules/smart-logging/target/*
+/smart-modules/smart-rest/target/*
+/smart-common/target/*
+/smart-admin-web/node_modules/*
